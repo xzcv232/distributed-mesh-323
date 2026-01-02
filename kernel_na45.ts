@@ -1,0 +1,1 @@
+const service_na45 = <T>(args: T): T => { return args; };
