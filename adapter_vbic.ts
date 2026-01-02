@@ -1,0 +1,1 @@
+const service_vbic = <T>(args: T): T => { return args; };
